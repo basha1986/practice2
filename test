@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello from feature branch
 =======
 Hello from feature1
 >>>>>>> feature1
+=======
+Hello from feature1
+Hello from feature branch
+conflict resolved
+>>>>>>> 361c6a90c09b3863a836123e5f42b986cc0fc9df
